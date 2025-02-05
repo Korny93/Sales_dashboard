@@ -1,6 +1,6 @@
-# My Awesome App
+# Sales Dashboard
 
-Welcome to **My Awesome App**! This project is designed to [briefly describe what your app does].
+Welcome to **Sales Dashboard**! This project is designed to show the analysis of pandas and sql in a harmony. Nothing more than just a prototype.
 
 ## Installation
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 Once installed, you can run the app using:
 
 ```bash
-python dashboard.py  # Replace with your actual entry point
+python dashboard.py 
 ```
 
 ## Check Out the App
